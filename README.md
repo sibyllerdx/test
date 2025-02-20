@@ -1,5 +1,5 @@
-#TITLE
+# TITLE
 
-##subtitle
+## subtitle
 
-$x^2
+$x^2$
